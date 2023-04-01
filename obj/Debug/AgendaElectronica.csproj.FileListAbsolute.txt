@@ -1,0 +1,11 @@
+C:\Users\rosma\source\repos\AgendaElectronica\bin\Debug\AgendaElectronica.exe.config
+C:\Users\rosma\source\repos\AgendaElectronica\bin\Debug\AgendaElectronica.exe
+C:\Users\rosma\source\repos\AgendaElectronica\bin\Debug\AgendaElectronica.pdb
+C:\Users\rosma\source\repos\AgendaElectronica\obj\Debug\AgendaElectronica.csproj.AssemblyReference.cache
+C:\Users\rosma\source\repos\AgendaElectronica\obj\Debug\AgendaElectronica.csproj.SuggestedBindingRedirects.cache
+C:\Users\rosma\source\repos\AgendaElectronica\obj\Debug\AgendaElectronica.Form1.resources
+C:\Users\rosma\source\repos\AgendaElectronica\obj\Debug\AgendaElectronica.Properties.Resources.resources
+C:\Users\rosma\source\repos\AgendaElectronica\obj\Debug\AgendaElectronica.csproj.GenerateResource.cache
+C:\Users\rosma\source\repos\AgendaElectronica\obj\Debug\AgendaElectronica.csproj.CoreCompileInputs.cache
+C:\Users\rosma\source\repos\AgendaElectronica\obj\Debug\AgendaElectronica.exe
+C:\Users\rosma\source\repos\AgendaElectronica\obj\Debug\AgendaElectronica.pdb
